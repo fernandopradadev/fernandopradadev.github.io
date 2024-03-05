@@ -1,8 +1,8 @@
 # fernandopradadev.github.io
 
-###Hola!
+Hola!
 
-##Mi nombre es Fernando, soy un estudiante del Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma
+Mi nombre es Fernando, soy un estudiante del Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma
 
 He aprendido varios comando en Git que son muy útiles como: 
 
@@ -20,7 +20,7 @@ Comandos de Markdown Útiles
 | #, ##, ###   | Encabezados: Se utilizan para definir títulos y subtítulos en Markdown. |
 | -, 1.   |  Listas Ordenadas y No Ordenadas: Permiten crear listas con viñetas o números para organizar información de manera estructurada. |
 
-#Todo esto solo es el inicio, aún me queda mucho camino por recorrer!
+Todo esto solo es el inicio, aún me queda mucho camino por recorrer!
 
 
 
