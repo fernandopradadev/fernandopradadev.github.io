@@ -2,7 +2,9 @@
 
 Hola!
 
-Mi nombre es Fernando, soy un estudiante del Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma
+Mi nombre es Fernando, soy un estudiante del Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma.
+
+Durante este curso estamos aprendiendo a utilizar el lenguaje markdown, así como Git, herramientas muy buenas para nuestras labores!
 
 He aprendido varios comando en Git que son muy útiles como: 
 
