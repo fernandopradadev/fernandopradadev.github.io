@@ -1,6 +1,7 @@
 # fernandopradadev.github.io
 ReadMe
 ###Hola!
+
 ##Mi nombre es Fernando, soy un estudiante del Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma
 
 He aprendido varios comando en Git que son muy útiles como: 
